@@ -1,0 +1,248 @@
+Uri: https://adams-top-notch-project-2fd63a.webflow.io/
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/img/favicon.ico
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://uploads-ssl.webflow.com/img/webclip.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\img\webclip.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df37b2b01b6ef3df42867fd_logo.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df37b2b01b6ef3df42867fd_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39d8bbe804bd1328863c0_boy.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39d8bbe804bd1328863c0_boy.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39d8b3b458aae2510badb_star.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39d8b3b458aae2510badb_star.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df550e6b0ebe72b6e40b3a3_supermen.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df550e6b0ebe72b6e40b3a3_supermen.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66153fbd9269d3f604d23_home.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66153fbd9269d3f604d23_home.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66154fbd9265d00604d2e_men.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66154fbd9265d00604d2e_men.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df661536a31d56c323facc0_dosk.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df661536a31d56c323facc0_dosk.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df661536a31d549cc3facbf_krask.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df661536a31d549cc3facbf_krask.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df661546a31d56be93facc1_bas.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df661546a31d56be93facc1_bas.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66154f373c8278be31e45_svist.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66154f373c8278be31e45_svist.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66154fbd92625bc604d2f_ranec.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66154fbd92625bc604d2f_ranec.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66154a58b62f84fd3fa50_smilered.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66154a58b62f84fd3fa50_smilered.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66154b0ebe72e8a46eeda_smilegreen.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66154b0ebe72e8a46eeda_smilegreen.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66153b0ebe7096446eed1_children.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66153b0ebe7096446eed1_children.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df7aedb58c1d562b9e9fc5a_children.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df7aedb58c1d562b9e9fc5a_children.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df7c2b858c1d50a78ea96b3_men1.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df7c2b858c1d50a78ea96b3_men1.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df7c2b8779a00138dee5bcd_men2.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df7c2b8779a00138dee5bcd_men2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df7c2b7eb9a62588d54809e_men3.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df7c2b7eb9a62588d54809e_men3.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df7c2b75b69f62648bbaf76_men4.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df7c2b75b69f62648bbaf76_men4.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df8fa21c6c30a8565a63a80_father.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df8fa21c6c30a8565a63a80_father.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df8fa220ef2cc50708bfb7d_wemen.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df8fa220ef2cc50708bfb7d_wemen.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e38057a69b4c2c0eaf24f40_foto4.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e38057a69b4c2c0eaf24f40_foto4.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e38057b9141a26aafe8ce7c_foto6.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e38057b9141a26aafe8ce7c_foto6.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e38057ad407a481720c074e_foto1.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e38057ad407a481720c074e_foto1.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e38057a7aa7cfd4cbb165a6_foto3.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e38057a7aa7cfd4cbb165a6_foto3.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e38057b1212673da5cb1c58_foto5.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e38057b1212673da5cb1c58_foto5.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e38057b9141a25a61e8ce7a_foto2.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e38057b9141a25a61e8ce7a_foto2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/js/webflow.085c7a38f.js
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\js\webflow.085c7a38f.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39d8bbe804bd1328863c0_boy-p-500.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39d8bbe804bd1328863c0_boy-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39d8bf185e8336f98eff7_bg.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39d8bf185e8336f98eff7_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df5121ab0ebe7663f3f364a_misha.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df5121ab0ebe7663f3f364a_misha.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df5121a6a31d5458538af2c_games.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df5121a6a31d5458538af2c_games.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df5121ab0ebe7cb213f3649_box.png
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df5121ab0ebe7cb213f3649_box.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66154a58b6237c4d3fa51_bg2.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66154a58b6237c4d3fa51_bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df66154fbd926549f604d30_Rectangle 7.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df66154fbd926549f604d30_Rectangle 7.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df8fa215a84266d89093ee2_bgotziv.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df8fa215a84266d89093ee2_bgotziv.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df7aedbe120c8ae7eaa7224_icon.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df7aedbe120c8ae7eaa7224_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e36c876c623302d8219b19a_bg.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e36c876c623302d8219b19a_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df8fa215e78c0432f809ce7_children.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df8fa215e78c0432f809ce7_children.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df8fa21c6c30a3431a63a82_strright.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df8fa21c6c30a3431a63a82_strright.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df8fa21c6c30a79b3a63a7f_strleft.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df8fa21c6c30a79b3a63a7f_strleft.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e38057b9141a270dae8ce7b_jump4.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e38057b9141a270dae8ce7b_jump4.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e3d692fa5399c2073eca589_lenta.svg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e3d692fa5399c2073eca589_lenta.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e3d6930a5399c74cceca58f_im1.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e3d6930a5399c74cceca58f_im1.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e3d6930b1d50f343718bd97_im2.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e3d6930b1d50f343718bd97_im2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e3d692fb1d50f2bdd18bd96_im3.jpg
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e3d692fb1d50f2bdd18bd96_im3.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e3d6ff0d1c1f776328cbc5c_fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e3d6ff0d1c1f776328cbc5c_fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e3d6ff0d8c6a1522e67671b_fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e3d6ff0d8c6a1522e67671b_fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5e3d6ff0d8c6a1285a67671c_fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5e3d6ff0d8c6a1285a67671c_fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e17be804b3282886866_CirceRounded-AltBold.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e17be804b3282886866_CirceRounded-AltBold.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e1701b6ef799d29d55d_CirceRoundedAlt-Regular2.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e1701b6ef799d29d55d_CirceRoundedAlt-Regular2.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e17014f24767cb12154_CirceRounded-Regular2.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e17014f24767cb12154_CirceRounded-Regular2.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e1701b6ef1d6b29d55f_CirceRounded-ExtraLight.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e1701b6ef1d6b29d55f_CirceRounded-ExtraLight.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e1737f193150301447a_CirceRounded-Regular4.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e1737f193150301447a_CirceRounded-Regular4.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e17a68fc31148ad6635_CirceExtraBold_0.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e17a68fc31148ad6635_CirceExtraBold_0.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e17f185e805a398f227_CRC55.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e17f185e805a398f227_CRC55.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e18f185e876c398f228_CRC75.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e18f185e876c398f228_CRC75.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/5df39e18be804b0710886876_CRC65.otf
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\5df39e18be804b0710886876_CRC65.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de795fff9c49c0886b2f471/css/adams-top-notch-project-2fd63a.webflow.c59a12e52.css
+File Name: c:\Downloaded Web Sites\adams-top-notch-project-2fd63a.webflow.io\5de795fff9c49c0886b2f471\css\adams-top-notch-project-2fd63a.webflow.c59a12e52.css
+Content Type: text/css
+
