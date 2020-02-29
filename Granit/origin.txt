@@ -1,0 +1,172 @@
+Uri: https://adams-blank-site-e0547a.webflow.io/
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/css/adams-blank-site-e0547a.webflow.10e5dd0a3.css
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\css\adams-blank-site-e0547a.webflow.10e5dd0a3.css
+Content Type: text/css
+
+Uri: https://uploads-ssl.webflow.com/img/favicon.ico
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://uploads-ssl.webflow.com/img/webclip.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\img\webclip.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68137d04b5705df4ae738_Logo.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68137d04b5705df4ae738_Logo.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68137ec03765c2c1e3351_block-1-1.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68137ec03765c2c1e3351_block-1-1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68138ec037665b31e3357_blocl-1-2.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68138ec037665b31e3357_blocl-1-2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68138e7c62d3c8c877aa2_block-1-2.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68138e7c62d3c8c877aa2_block-1-2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68138ec0376f9761e3355_block-2-1.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68138ec0376f9761e3355_block-2-1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de681382c423057301c92f0_block-2-2.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de681382c423057301c92f0_block-2-2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5dee51fe504967846f21a876_popular-1.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5dee51fe504967846f21a876_popular-1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5dee51bae942e726804eebbe_popular-2.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5dee51bae942e726804eebbe_popular-2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de681380282bc6b5c93b35a_block-3-3.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de681380282bc6b5c93b35a_block-3-3.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68138fbc3d7f1eebbf7f9_block-3-4.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68138fbc3d7f1eebbf7f9_block-3-4.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de6813796e4601dadf4cfe5_block-4-1.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de6813796e4601dadf4cfe5_block-4-1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68137ec037604851e3350_block-4-2.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68137ec037604851e3350_block-4-2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de681392c42301b071c92f3_block-4-3.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de681392c42301b071c92f3_block-4-3.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68137352e5e497721d3f0_location-pin_(2).png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68137352e5e497721d3f0_location-pin_(2).png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc70d6761c96de17609a7_phone-receiver_(3).png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc70d6761c96de17609a7_phone-receiver_(3).png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc70d0244b425e4f403a8_location-pin_(2).png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc70d0244b425e4f403a8_location-pin_(2).png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc70e8cc60e59ac101ede_close-envelope.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc70e8cc60e59ac101ede_close-envelope.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defe2bf0a28df0e4019d1de_futer1.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defe2bf0a28df0e4019d1de_futer1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/js/webflow.be9ab1109.js
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\js\webflow.be9ab1109.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5df1010b5613ce0ee85c763d_excavators-1174428_1920.jpg
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5df1010b5613ce0ee85c763d_excavators-1174428_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5def88c941c660755999dacb_map.png
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5def88c941c660755999dacb_map.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce47559050759f0836_fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce47559050759f0836_fa-brands-400.bin
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce20b40f53ebc36eef_fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce20b40f53ebc36eef_fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce3e4ca45358da37cf_fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce3e4ca45358da37cf_fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce714e85c11c767ccd_fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce714e85c11c767ccd_fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce41c6604f429c24d1_fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce41c6604f429c24d1_fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce9f7f6738daedfec1_fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce9f7f6738daedfec1_fa-solid-900.bin
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce3e4ca4af5eda37d0_fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce3e4ca4af5eda37d0_fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce3e4ca47739da37ce_fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce3e4ca47739da37ce_fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce41c660366a9c24d0_fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce41c660366a9c24d0_fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce8cc60ef7d7100aab_fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce8cc60ef7d7100aab_fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce6761c97b4375de83_fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce6761c97b4375de83_fa-regular-400.bin
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce8cc60ee710100aa8_fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce8cc60ee710100aa8_fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce8cc60e680d100aaa_fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce8cc60e680d100aaa_fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce20b40fab23c36ef0_fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce20b40fab23c36ef0_fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5defc3ce20b40fea7ac36ef1_fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5defc3ce20b40fea7ac36ef1_fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68c4f96e460fcecf52c34_GothaProMed.otf
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68c4f96e460fcecf52c34_GothaProMed.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de68c41e7c62dd7c587bdfd_GothaProBol.otf
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de68c41e7c62dd7c587bdfd_GothaProBol.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/5de65cc6b8a0edd68fb15bad/5de6b1e1fba0682b20be48d3_GothaProLig.otf
+File Name: c:\Downloaded Web Sites\adams-blank-site-e0547a.webflow.io\5de65cc6b8a0edd68fb15bad\5de6b1e1fba0682b20be48d3_GothaProLig.otf
+Content Type: application/x-font-otf
+
